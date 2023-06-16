@@ -1,11 +1,11 @@
-About r-metrics
-===============
+About r-metrics-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-metrics-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mfrasco/Metrics
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-metrics-feedstock/blob/main/LICENSE.txt)
 
 Summary: An implementation of evaluation metrics in R that are commonly used in supervised machine learning. It implements metrics for regression, time series, binary classification, classification, and information retrieval problems. It has zero dependencies and a consistent, simple interface for all functions.
 
